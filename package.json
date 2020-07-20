@@ -1,0 +1,13 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "main": "rbs.js",
+  "license": "MIT",
+  "scripts": {
+    "filter": "node index.js"
+  },
+  "dependencies": {
+    "hummus": "^1.0.108",
+    "memory-streams": "^0.1.3"
+  }
+}

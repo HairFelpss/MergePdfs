@@ -7,7 +7,7 @@
     "filter": "node index.js"
   },
   "dependencies": {
-    "hummus": "^1.0.108",
+    "hummus": "^1.0.111",
     "memory-streams": "^0.1.3"
   }
 }
